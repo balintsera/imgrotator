@@ -7,7 +7,7 @@ Run `docker-compose up` to start the Jupyter Notebook, then hit localhost:8888 i
 You must intall tensorflow in the container and update numpy:
 
 ```bash
-pip install --update numpy
+pip install --upgrade numpy
 pip install tensorflow
 ```
  

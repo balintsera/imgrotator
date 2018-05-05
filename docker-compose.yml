@@ -1,7 +1,7 @@
 version: '3'
 services:
   anaconda:
-    container_name: tfcookbook
+    container_name: imgrot
     image: continuumio/anaconda3
     volumes:
       - ./:/work
